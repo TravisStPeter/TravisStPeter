@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+
 <!--
 **TravisStPeter/TravisStPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
